@@ -91,6 +91,70 @@ figcaption {
     padding-bottom: 10px;
     text-align: center;
     margin-right: 20%;
-    margin-left: -63%;
+    margin-left: -62.5%;
+    margin-top: 5px;
+}
+
+.figcaption2 {
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: -20%;
+    margin-left: -66.5%;
+    margin-top: 5px;
+}
+
+.figcaption3 {
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: -64%;
+    margin-top: 5px;
+}
+
+.figcaption4 {
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: -63.5%;
+    margin-top: 5px;
+}
+
+.figcaption5 {
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: -20%;
+    margin-left: -91%;
+    margin-top: 5px;
+}
+
+.figcaption6 {
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: -20%;
+    margin-left: -70%;
+    margin-top: 5px;
+}
+
+.figcaption7 {
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: -20%;
+    margin-left: -69.5%;
+    margin-top: 5px;
+}
+
+.figcaption8 {
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: -20%;
+    margin-left: -68.3%;
+    margin-top: 5px;
+}
+
+.figcaption9 {
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: -20%;
+    margin-left: -87.85%;
     margin-top: 5px;
 }
